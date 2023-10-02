@@ -14,7 +14,7 @@ html , body {
 }
 
 .hero_section{
-    background-image: url(/Project-4/images/300-SM972005.jpg);
+    background-image: url(images/300-SM972005.jpg);
     min-height: 100vh;
     background-position: center;
     background-size: cover;
